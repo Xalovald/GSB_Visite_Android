@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">gsb_visites</string>
+    <string name="Title">Bonjour!</string>
+    <string name="editName">Nom</string>
+    <string name="editPassword">mot de passe</string>
+    <string name="btnConnect">Se connecter</string>
+</resources>
